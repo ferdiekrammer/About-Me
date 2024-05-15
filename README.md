@@ -29,6 +29,7 @@ My answers to the worksheets/labs/coursework set as part of these courses (Not a
 - Machine Learning 2: taken 2021/2022, taught 2022-present
   - This is a Master's level course taught at the University of Bath.
   - Taught by Dr. Hongping Cai, Dr. Vinay Namboodiri (2021/2022).
+  - My solutions to this coursework can be found [here](https://github.com/ferdiekrammer/art-ai-MRes-year/tree/main/ML2).
 - Machine Learning: taught 2022-present
   - This is a second-year course taught at the University of Bath.
 - Artificial Intelligence: taught 2023-present
