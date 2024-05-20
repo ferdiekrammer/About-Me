@@ -12,8 +12,9 @@ I am a PhD student at the University of Bath, and a member of the Grayson Group.
 
 # Personal Projects
 
-These are a range of different projects which I have undertaken/am undertaking and will make the code publicly available upon completion.
-- currently constructing a generall CNN arcetecture structure for use in a VAE and GAN (not yet publicaly available)
+These are a range of different projects which I have undertaken/am undertaking and will make the code publicly available as and when I feel its in a fit state for publication.
+- currently playing with CNN architectures for use in VAE's and GAN's (not yet publicaly available)
+- reformated code from my auditing of the University of bath [reinforcement learning](https://github.com/ferdiekrammer/auditied-RL-Course-public) course (not all code has been made available)
 
 # art-ai MRes
 
